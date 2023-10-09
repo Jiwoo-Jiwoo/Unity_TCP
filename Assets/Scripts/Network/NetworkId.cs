@@ -1,7 +1,5 @@
 using Protocol;
-using Sirenix.OdinInspector;
 using UnityEngine;
-
 
 public class NetworkId : MonoBehaviour
 {
